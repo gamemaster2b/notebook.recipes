@@ -1,1 +1,5 @@
 = Ugali
+William <william@mrjaeger.net>
+:stem: latexmath
+:imagesdir: .assets/images
+:keywords: stach
